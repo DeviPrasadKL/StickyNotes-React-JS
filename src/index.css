@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.AddNote form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  gap: 15px;
+}
+.AddNote form #notesArea{
+  padding: 10px;
+  height: 20px;
+  width: 250px;
+}
+.View{
+  width: 250px;
+  margin: auto;
+}
+.View p{
+  height: 100px;
+  color: white;
+}
+.drop{
+  display: flex;
+  flex-direction: column;
+  border: none;
+}

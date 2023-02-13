@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "notes": "Hello, world 1",
+      "color": "red",
+      "id": 1
+    },
+    {
+      "notes": "Hello, world ",
+      "color": "Pink",
+      "id": 2
+    },
+    {
+      "notes": "3 rd note  45545454",
+      "color": "blue",
+      "id": 3
+    },
+    {
+      "notes": "4th note",
+      "color": "yellow",
+      "id": 4
+    }
+  ]
+}
